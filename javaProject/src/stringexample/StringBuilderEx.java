@@ -21,6 +21,7 @@ public class StringBuilderEx {
 	
 		name.replace(5, 16, "program");
 		System.out.println(name);
+		System.out.println("--------------------------------------------");
 		
 		
 		//method 4  delete()

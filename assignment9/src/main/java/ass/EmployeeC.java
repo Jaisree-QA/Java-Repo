@@ -9,7 +9,7 @@ public class EmployeeC {
 		this.serialNo=serialNo;
 		this.departmentP=departmentP;
 		
-System.out.println("Serial Number: "+this.serialNo+"\n"+
+System.out.println("Serial Number: "+serialNo+"\n"+
 					"Project Details1: "+departmentP.emp1+"\n"+
 					"Project Details2: "+departmentP.emp2+"\n"+
 					"Project Details3: "+departmentP.emp3);

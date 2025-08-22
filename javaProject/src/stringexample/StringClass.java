@@ -23,6 +23,7 @@ public class StringClass {
 //method 5 equalsIgnoreCase
 		
 		System.out.println(s.equalsIgnoreCase(s1));
+		System.out.println("next is empty");
 		
 //method 6 isEmpty()
 		

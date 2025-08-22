@@ -7,7 +7,7 @@ public class Student {
 	Student (String name, int rollNo){
 		
 		this.name=name;
-		this.rollNo=rollNo;
+	this.rollNo=rollNo;
 System.out.println("Student name: " + name+ "\n"+
 					"RollNo: "+ rollNo);
 		
@@ -16,9 +16,5 @@ System.out.println("Student name: " + name+ "\n"+
 	void display() {
 		
 	}
-	//public static void main(String[] args) {
-	//	Student ob = new Student("Daurius",123);
-		
-//	}
 
 }
